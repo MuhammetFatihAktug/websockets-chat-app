@@ -26,6 +26,7 @@ mvn spring-boot:run
 ## Screenshots
 
 Here are some screenshots of the chat application:
+
 ![Screenshot 2](https://github.com/MuhammetFatihAktug/websockets-chat-app/blob/master/src/main/resources/static/img/5.PNG)
 
 ![Screenshot 1](https://github.com/MuhammetFatihAktug/websockets-chat-app/blob/master/src/main/resources/static/img/2new.PNG)
