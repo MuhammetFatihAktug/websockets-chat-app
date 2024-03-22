@@ -2,7 +2,6 @@ package org.example.chat.config;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import lombok.var;
 import org.example.chat.model.ChatMessage;
 import org.example.chat.model.MessageType;
 import org.springframework.context.event.EventListener;
